@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]I am a **Final-Year Engineer** and **Full Stack Developer** from **Bengaluru**[cite: 6, 7]. I don't just write code; I build **systems**. [cite_start]My focus is on high-performance backends, real-time communication, and scalable architecture[cite: 8].
+[cite_start]I am a **Final-Year Engineer** and **Full Stack Developer** [cite: 6, 7]. I don't just write code; I build **systems**. [cite_start]My focus is on high-performance backends, real-time communication, and scalable architecture[cite: 8].
 
 * 🔭 **Currently working on:** Scaling **FindDevs** on AWS EC2.
 * 🌱 **Learning:** Advanced Java OOP & System Design.
